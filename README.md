@@ -1,5 +1,5 @@
 一、	数据ER图
-(http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=宠物&step_word=&hs=0&pn=2&spn=0&di=117019049950&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1474139545%2C1219393896&os=3154226450%2C1456139853&simid=0%2C0&adpicid=0&ln=1975&fr=&fmq=1476630608844_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fh.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F0eb30f2442a7d9334f268ca9a84bd11372f00159.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fzit1w5_z%26e3Bkwt17_z%26e3Bv54AzdH3Fq7jfpt5gAzdH3F88880l8ldambn089bcl_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0)
+![Image text](https://raw.github.com/xujianhui1995/repositpry/master/mis/img/1.png)
  
 二、	SQL语句
 /*==============================================================*/
