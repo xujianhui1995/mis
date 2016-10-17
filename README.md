@@ -105,4 +105,6 @@ SELECT * FROM 检修信息,设备维修,设备耗材 where 检修信息.检修�
 
 ![Image text](https://github.com/xujianhui1995/mis/blob/master/img/3.png)
 
+Axure原型地址：http://asuqpm.axshare.com
+
 
