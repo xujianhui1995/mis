@@ -1,6 +1,6 @@
 一、	数据ER图
 
-![Image text](https://raw.github.com/xujianhui1995/repositpry/master/mis/img/1.png)
+![Image text](https://github.com/xujianhui1995/mis/blob/master/img/1.png)
  
 二、	SQL语句
 /*==============================================================*/
@@ -98,11 +98,11 @@ alter table 设备信息 add constraint FK_Relationship_1 foreign key (保养类
 1.根据当前时间预警所有该检修的设备
 	SELECT 设备信息.设备编号,设备信息.设备类型,检修信息.下次检修时间 FROM sb.检修信息,sb.设备信息 where  设备信息.设备编号=检修信息.设备编号 and date(下次检修时间)=curdate()-1;
 	
-![Image text](https://raw.github.com/xujianhui1995/repositpry/master/mis/img/2.png)
+![Image text](https://github.com/xujianhui1995/mis/blob/master/img/.png)
 	 
 2.根据设备编号，查询出设备检修报告（包括历史检修情况和材料消耗情况）
 SELECT * FROM 检修信息,设备维修,设备耗材 where 检修信息.检修编号=设备维修.检修编号 and 设备维修.维修编号=设备耗材.维修编号;
 
-![Image text](https://raw.github.com/xujianhui1995/repositpry/master/mis/img/3.png)
+![Image text](https://github.com/xujianhui1995/mis/blob/master/img/3.png)
 
 
